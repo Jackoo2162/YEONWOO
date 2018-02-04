@@ -80,4 +80,4 @@ bot.on("ready", () => {
   console.log("I am ready!");
 });
 
-bot.login('NDA5MTgxMDg0NTU5OTk4OTc2.DVa3Rw.WvoNArlhUmCuMUKa1Ng1cuagSrc');
+bot.login('');
